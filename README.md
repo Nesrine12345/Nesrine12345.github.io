@@ -7,4 +7,4 @@
 - Experiences
 - certification
 
-[CV] (file:///C:/Users/Nina/OneDrive/Documents/GitHub/Nesrine12345.github.io/README.md/index.html)
+[file:///C:/Users/Nina/OneDrive/Documents/GitHub/Nesrine12345.github.io/README.md/index.html] 
